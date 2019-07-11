@@ -2,32 +2,32 @@
     "overall": {
         "rank": 4055,
         "level": 2277,
-        "experience": 426834860
+        "experience": 426888928
     },
     "attack": {
-        "rank": 61597,
+        "rank": 61560,
         "level": 99,
-        "experience": 14706446
+        "experience": 14709493
     },
     "strength": {
-        "rank": 43440,
+        "rank": 43396,
         "level": 99,
-        "experience": 15034706
+        "experience": 15038198
     },
     "defence": {
-        "rank": 59584,
+        "rank": 59539,
         "level": 99,
-        "experience": 16217819
+        "experience": 16222200
     },
     "hitpoints": {
-        "rank": 30156,
+        "rank": 30146,
         "level": 99,
-        "experience": 29444455
+        "experience": 29450632
     },
     "ranged": {
-        "rank": 21076,
+        "rank": 21071,
         "level": 99,
-        "experience": 29632394
+        "experience": 29637529
     },
     "prayer": {
         "rank": 4867,
@@ -37,17 +37,17 @@
     "magic": {
         "rank": 4728,
         "level": 99,
-        "experience": 26729256
+        "experience": 26730687
     },
     "cooking": {
-        "rank": 7113,
+        "rank": 7114,
         "level": 99,
         "experience": 20285221
     },
     "woodcutting": {
-        "rank": 8188,
+        "rank": 8187,
         "level": 99,
-        "experience": 15969634
+        "experience": 15970194
     },
     "fletching": {
         "rank": 6326,
@@ -60,65 +60,65 @@
         "experience": 13861073
     },
     "firemaking": {
-        "rank": 4545,
+        "rank": 4544,
         "level": 99,
-        "experience": 18340892
+        "experience": 18341210
     },
     "crafting": {
-        "rank": 1360,
+        "rank": 1361,
         "level": 99,
-        "experience": 16267305
+        "experience": 16267525
     },
     "smithing": {
-        "rank": 5892,
+        "rank": 5891,
         "level": 99,
-        "experience": 13180446
+        "experience": 13180471
     },
     "mining": {
-        "rank": 7448,
+        "rank": 7449,
         "level": 99,
-        "experience": 13703196
+        "experience": 13703239
     },
     "herblore": {
         "rank": 1374,
         "level": 99,
-        "experience": 14974483
+        "experience": 14976191
     },
     "agility": {
-        "rank": 6932,
+        "rank": 6931,
         "level": 99,
-        "experience": 13181773
+        "experience": 13181838
     },
     "theiving": {
-        "rank": 6742,
+        "rank": 6743,
         "level": 99,
         "experience": 14659234
     },
     "slayer": {
-        "rank": 16409,
+        "rank": 16410,
         "level": 99,
         "experience": 15269577
     },
     "farming": {
-        "rank": 1346,
+        "rank": 1344,
         "level": 99,
-        "experience": 38827063
+        "experience": 38849729
     },
     "runecraft": {
-        "rank": 2396,
+        "rank": 2397,
         "level": 99,
         "experience": 14813123
     },
     "hunter": {
-        "rank": 1300,
+        "rank": 1298,
         "level": 99,
-        "experience": 29018050
+        "experience": 29022850
     },
     "construction": {
         "rank": 517,
         "level": 99,
         "experience": 14400516
     },
-    "hash": "b4f2544b68e011f813b2587defc29e4f73de1371ab832a8da9ed2f0b",
+    "hash": "e40816ab59de674d26c48b210719767011e444dce9ac253b95e8f9f3",
     "displayname": "Bear IV"
 }
