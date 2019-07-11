@@ -1,0 +1,124 @@
+{
+    "overall": {
+        "rank": 4055,
+        "level": 2277,
+        "experience": 426834860
+    },
+    "attack": {
+        "rank": 61597,
+        "level": 99,
+        "experience": 14706446
+    },
+    "strength": {
+        "rank": 43440,
+        "level": 99,
+        "experience": 15034706
+    },
+    "defence": {
+        "rank": 59584,
+        "level": 99,
+        "experience": 16217819
+    },
+    "hitpoints": {
+        "rank": 30156,
+        "level": 99,
+        "experience": 29444455
+    },
+    "ranged": {
+        "rank": 21076,
+        "level": 99,
+        "experience": 29632394
+    },
+    "prayer": {
+        "rank": 4867,
+        "level": 99,
+        "experience": 13221999
+    },
+    "magic": {
+        "rank": 4728,
+        "level": 99,
+        "experience": 26729256
+    },
+    "cooking": {
+        "rank": 7113,
+        "level": 99,
+        "experience": 20285221
+    },
+    "woodcutting": {
+        "rank": 8188,
+        "level": 99,
+        "experience": 15969634
+    },
+    "fletching": {
+        "rank": 6326,
+        "level": 99,
+        "experience": 15096199
+    },
+    "fishing": {
+        "rank": 11558,
+        "level": 99,
+        "experience": 13861073
+    },
+    "firemaking": {
+        "rank": 4545,
+        "level": 99,
+        "experience": 18340892
+    },
+    "crafting": {
+        "rank": 1360,
+        "level": 99,
+        "experience": 16267305
+    },
+    "smithing": {
+        "rank": 5892,
+        "level": 99,
+        "experience": 13180446
+    },
+    "mining": {
+        "rank": 7448,
+        "level": 99,
+        "experience": 13703196
+    },
+    "herblore": {
+        "rank": 1374,
+        "level": 99,
+        "experience": 14974483
+    },
+    "agility": {
+        "rank": 6932,
+        "level": 99,
+        "experience": 13181773
+    },
+    "theiving": {
+        "rank": 6742,
+        "level": 99,
+        "experience": 14659234
+    },
+    "slayer": {
+        "rank": 16409,
+        "level": 99,
+        "experience": 15269577
+    },
+    "farming": {
+        "rank": 1346,
+        "level": 99,
+        "experience": 38827063
+    },
+    "runecraft": {
+        "rank": 2396,
+        "level": 99,
+        "experience": 14813123
+    },
+    "hunter": {
+        "rank": 1300,
+        "level": 99,
+        "experience": 29018050
+    },
+    "construction": {
+        "rank": 517,
+        "level": 99,
+        "experience": 14400516
+    },
+    "hash": "b4f2544b68e011f813b2587defc29e4f73de1371ab832a8da9ed2f0b",
+    "displayname": "Bear IV"
+}
